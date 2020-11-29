@@ -1,9 +1,9 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
-5. Assignment: numbers 
+1. Name: Casey Counts
+2. Student ID: 2291417
+3. Email: ccounts@chapman.edu
+4. Class: CPSC 298
+5. Assignment: numbers.sh script
 
 ## Application Purpose
 A bash script named “numbers.sh” that will 
